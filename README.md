@@ -9,7 +9,7 @@ A documentação deste repositório reúne informações sobre arquitetura, func
 
 * **Controle de Receitas e Despesas:** permita o registro e acompanhamento das movimentações financeiras do usuário de forma simples e organizada.
 * **Dashboard Financeiro:** exiba uma visão geral das entradas, saídas, saldo atual e indicadores financeiros.
-* **Acesso Multiplataforma:** disponibilize acesso ao sistema tanto pela web quanto por aplicativo mobile.
+* **Acesso Multiplataforma:** disponibiliza acesso ao sistema tanto pela web quanto por aplicativo mobile.
 * **Organização sem Planilhas:** concentre o controle financeiro em uma solução moderna e intuitiva, eliminando a necessidade de controles manuais em planilhas.
 * **Escalabilidade do Projeto:** estrutura preparada para expansão futura com novos módulos, relatórios e integrações.
 
